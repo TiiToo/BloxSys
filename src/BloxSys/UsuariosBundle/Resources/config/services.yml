@@ -1,0 +1,4 @@
+services:
+#    blox_sys_usuarios.example:
+#        class: BloxSys\UsuariosBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
